@@ -1,7 +1,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a full-stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Random quote genarator web App
@@ -31,8 +31,9 @@ https://randomquotejs.netlify.app/
 
 
 ## Screenshots
+![Screenshot 2022-10-30 001957](https://user-images.githubusercontent.com/92782806/211472166-0717203d-f6cd-4199-9244-7eb3137df4a7.png)
 
-![](./Screenshot%202022-10-30%20001957.png)
+
 
 
 ## Feedback
